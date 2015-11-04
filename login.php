@@ -1,6 +1,6 @@
 <?php 
 $hn = 'localhost';
-$db = 'database';
-$un = 'username';
-$pw = 'password';
+$db = 'publications';
+$un = 'esison';
+$pw = 'read';
 ?>
